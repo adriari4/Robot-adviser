@@ -124,9 +124,9 @@ The models were integrated into a **Streamlit demo website** that enables users 
 
 ## 👥 Team (Group 5)
 
-- **Adrián**  
-- Inna  
-- Khushboo  
+- Inna 
+- Adrián  
+- Khushboo    
 - Ralitza  
 
 ---
