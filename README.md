@@ -42,7 +42,7 @@ This project aims to **automate product review analysis** using modern NLP:
 
 ---
 
-## 🏗 System Architecture
+## System Architecture
 
 ```
 [Architecture diagram text already shown in conversation]
